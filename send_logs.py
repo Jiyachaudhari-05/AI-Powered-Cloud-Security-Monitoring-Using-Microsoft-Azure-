@@ -9,8 +9,8 @@ from datetime import datetime
 import logging
 
 # Replace with your Azure Log Analytics details
-WORKSPACE_ID = "94cffcc5-c635-4962-8224-39ad091081cd"
-SHARED_KEY = "FVTziGHE9camQpo5Ha3noZd+Iu9BrDrZRcN21TrwB2kKjq7ki1asg4HdX/sFXDxuZMOaOroleMVte7aXmbgDsg=="
+WORKSPACE_ID = ""
+SHARED_KEY = ""
 LOG_TYPE = "DjangoLoginActivity_CL"  # Custom log type for your Django login activity
 # Set up logging to log to a file
 logging.basicConfig(filename='send_logs.log', level=logging.INFO)

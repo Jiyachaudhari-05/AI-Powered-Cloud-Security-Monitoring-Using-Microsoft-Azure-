@@ -3,8 +3,8 @@ import json
 import requests
 
 # Set up Azure Anomaly Detector credentials
-API_KEY = "94j18go1NdoeXONdO9qAbA4UTu9Tp3zdbEwvg2egtdMeLdzgWZO5JQQJ99BCACYeBjFXJ3w3AAAAACOG7st1"  # Replace with your Key 1
-ENDPOINT = "https://eastus.api.cognitive.microsoft.com/"  # Replace with your Endpoint
+API_KEY = ""  # Replace with your Key 1
+ENDPOINT = ""  # Replace with your Endpoint
 
 headers = {
     "Content-Type": "application/json",

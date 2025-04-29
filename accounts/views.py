@@ -17,7 +17,7 @@ from .utils import register_user  # Removed `authenticate_user` since Django han
 
 logger = logging.getLogger('django.security')
 
-LOGIC_APP_URL = "https://prod-15.centralindia.logic.azure.com:443/workflows/577d0fc584004453b6a0c23e17543319/triggers/When_a_HTTP_request_is_received/paths/invoke?api-version=2016-10-01&sp=%2Ftriggers%2FWhen_a_HTTP_request_is_received%2Frun&sv=1.0&sig=hWGozbqDblcjs7SGCikpryujYZAuf3BkfGkCa-KkTtg"
+LOGIC_APP_URL = ""
 
 # ✅ Helper Function to Get Client IP
 def get_client_ip(request):

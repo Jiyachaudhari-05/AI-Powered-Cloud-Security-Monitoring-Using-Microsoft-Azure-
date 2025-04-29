@@ -6,8 +6,8 @@ import hmac
 import base64
 
 # Replace with your values
-WORKSPACE_ID = "94cffcc5-c635-4962-8224-39ad091081cd"
-SHARED_KEY = "FVTziGHE9camQpo5Ha3noZd+Iu9BrDrZRcN21TrwB2kKjq7ki1asg4HdX/sFXDxuZMOaOroleMVte7aXmbgDsg=="
+WORKSPACE_ID = ""
+SHARED_KEY = ""
 LOG_TYPE = "DjangoLoginActivity"
 
 # Create a sample log entry

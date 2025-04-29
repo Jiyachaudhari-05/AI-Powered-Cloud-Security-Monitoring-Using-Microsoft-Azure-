@@ -5,8 +5,8 @@ import requests
 import datetime
 import json
 
-WORKSPACE_ID = "b105dbe2-663d-4e18-97f9-eb6e543b6bb3"
-SHARED_KEY = "hTSsLtKb6fGb3zqN04k9jCpd7LB2+6QPWysl1Z4Tbu9bNMAv0ZYvU+Vb1R48Q+n8MC7fDt1elcVG77iapAYpPQ=="
+WORKSPACE_ID = ""
+SHARED_KEY = ""
 
 def build_signature(date, content_length, method, content_type, resource):
     x_headers = f"x-ms-date:{date}"

@@ -1,6 +1,6 @@
 import azure.eventhub
 
-connection_string = "Endpoint=sb://security-logs-ns.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=YOUR_KEY"
+connection_string = ""
 event_hub_name = "django-logs"
 
 try:
