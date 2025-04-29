@@ -1,0 +1,85 @@
+INFO:root:Script started at 2025-03-27 21:30:15.915682
+INFO:root:Processing user login activities...
+INFO:root:Successfully sent logs to Azure at 2025-03-27 21:30:15.922817
+INFO:root:Script finished at 2025-03-27 21:30:15.922817
+INFO:root:Script started at 2025-03-27 21:30:16.618544
+INFO:root:Processing user login activities...
+INFO:root:Successfully sent logs to Azure at 2025-03-27 21:30:16.618544
+INFO:root:Script finished at 2025-03-27 21:30:16.618544
+INFO:root:Script started at 2025-03-27 21:40:36.208307
+INFO:root:Processing user login activities...
+INFO:root:Successfully sent logs to Azure at 2025-03-27 21:40:36.208307
+INFO:root:Script finished at 2025-03-27 21:40:36.235467
+INFO:root:Script started at 2025-03-27 21:40:36.830224
+INFO:root:Processing user login activities...
+INFO:root:Successfully sent logs to Azure at 2025-03-27 21:40:36.830224
+INFO:root:Script finished at 2025-03-27 21:40:36.830224
+INFO:root:Script started at 2025-03-28 08:49:21.675686
+INFO:root:Processing user login activities...
+INFO:root:Successfully sent logs to Azure at 2025-03-28 08:49:21.675686
+INFO:root:Script finished at 2025-03-28 08:49:21.677706
+INFO:root:Script started at 2025-03-28 08:49:22.010175
+INFO:root:Processing user login activities...
+INFO:root:Successfully sent logs to Azure at 2025-03-28 08:49:22.010755
+INFO:root:Script finished at 2025-03-28 08:49:22.010755
+INFO:root:Script started at 2025-03-28 10:56:30.777034
+INFO:root:Processing user login activities...
+INFO:root:Successfully sent logs to Azure at 2025-03-28 10:56:30.777034
+INFO:root:Script finished at 2025-03-28 10:56:30.777034
+INFO:root:Script started at 2025-03-28 10:56:31.110489
+INFO:root:Processing user login activities...
+INFO:root:Successfully sent logs to Azure at 2025-03-28 10:56:31.112516
+INFO:root:Script finished at 2025-03-28 10:56:31.112516
+INFO:root:Script started at 2025-03-28 11:06:27.029847
+INFO:root:Processing user login activities...
+INFO:root:Successfully sent logs to Azure at 2025-03-28 11:06:27.052758
+INFO:root:Script finished at 2025-03-28 11:06:27.052758
+INFO:root:Script started at 2025-03-28 11:06:27.491073
+INFO:root:Processing user login activities...
+INFO:root:Successfully sent logs to Azure at 2025-03-28 11:06:27.493097
+INFO:root:Script finished at 2025-03-28 11:06:27.493097
+INFO:root:Script started at 2025-03-28 21:30:51.689954
+INFO:root:Processing user login activities...
+INFO:root:Successfully sent logs to Azure at 2025-03-28 21:30:51.712229
+INFO:root:Script finished at 2025-03-28 21:30:51.712229
+INFO:root:Script started at 2025-03-28 21:30:52.297357
+INFO:root:Processing user login activities...
+INFO:root:Successfully sent logs to Azure at 2025-03-28 21:30:52.297357
+INFO:root:Script finished at 2025-03-28 21:30:52.297357
+2025-03-28 21:41:33,863 - User subham logged in at 2025-03-28 21:41:33.863309
+2025-03-29 22:35:17,602 - User jiya logged in at 2025-03-29 22:35:17.602672
+INFO:root:Script started at 2025-04-01 08:48:15.147235
+INFO:root:Processing user login activities...
+INFO:root:Successfully sent logs to Azure at 2025-04-01 08:48:15.147235
+INFO:root:Script finished at 2025-04-01 08:48:15.147235
+INFO:root:Script started at 2025-04-01 08:48:15.441771
+INFO:root:Processing user login activities...
+INFO:root:Successfully sent logs to Azure at 2025-04-01 08:48:15.441771
+INFO:root:Script finished at 2025-04-01 08:48:15.441771
+2025-04-01 10:08:05,151 - User jiya logged in at 2025-04-01 10:08:05.150417
+2025-04-01 10:43:56,338 - User jiya logged in at 2025-04-01 10:43:56.338398
+2025-04-01 10:54:43,619 - User jiya logged in at 2025-04-01 10:54:43.619248
+2025-04-01 10:56:42,644 - User jiya logged in at 2025-04-01 10:56:42.644126
+2025-04-03 10:30:41,499 - User jiya logged in at 2025-04-03 10:30:41.499954
+2025-04-03 10:39:20,191 - User jiya logged in at 2025-04-03 10:39:20.191304
+2025-04-03 10:40:07,596 - User jiya logged in at 2025-04-03 10:40:07.596797
+2025-04-03 10:42:21,431 - User jiya logged in at 2025-04-03 10:42:21.431772
+2025-04-03 10:43:37,492 - User jiya logged in at 2025-04-03 10:43:37.492361
+2025-04-03 10:45:53,193 - User jiya logged in at 2025-04-03 10:45:53.193559
+2025-04-03 10:50:39,466 - User jiya logged in at 2025-04-03 10:50:39.466114
+2025-04-03 10:51:15,287 - User jiya logged in at 2025-04-03 10:51:15.287283
+2025-04-03 10:52:21,174 - User jiya logged in at 2025-04-03 10:52:21.174923
+2025-04-03 10:57:17,730 - User jiya logged in at 2025-04-03 10:57:17.730300
+2025-04-03 10:57:56,186 - User jiya logged in at 2025-04-03 10:57:56.186948
+2025-04-03 11:00:25,893 - User jiya logged in at 2025-04-03 11:00:25.893698
+2025-04-03 11:03:32,441 - User jiya logged in at 2025-04-03 11:03:32.441552
+2025-04-03 11:08:39,092 - User jiya logged in at 2025-04-03 11:08:39.092347
+2025-04-03 11:09:42,593 - User jiya logged in at 2025-04-03 11:09:42.593839
+2025-04-03 11:13:32,184 - User jiya logged in at 2025-04-03 11:13:32.184541
+2025-04-03 11:15:03,650 - User jiya logged in at 2025-04-03 11:15:03.650412
+2025-04-03 12:08:53,157 - User jiya logged in at 2025-04-03 12:08:53.157937
+2025-04-03 12:14:54,378 - User jiya logged in at 2025-04-03 12:14:54.378745
+2025-04-05 21:29:55,133 - User jiya logged in at 2025-04-05 21:29:55.133898
+2025-04-07 11:37:06,668 - User jiya logged in at 2025-04-07 11:37:06.668115
+2025-04-07 12:04:41,399 - User jiya logged in at 2025-04-07 12:04:41.399018
+2025-04-08 21:10:55,610 - Watching for file changes with StatReloader
